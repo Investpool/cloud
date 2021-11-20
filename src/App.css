@@ -1,0 +1,16 @@
+html {
+    min-height: 100%;
+}
+
+
+body {
+    background-color: #95e8f3;
+    
+}
+form {
+    padding: 20px;
+    margin-top: 60px;
+}
+.bbv{
+    filter:drop-shadow(5px 9px 2px darkblue);
+}
